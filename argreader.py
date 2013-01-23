@@ -15,6 +15,7 @@ d = datetime.datetime.now().day
 h = datetime.datetime.now().hour
 min = datetime.datetime.now().minute
 
+# this is an array for full data
 full_time = [y, m, d, h, min]
 
 help = 'help'
